@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.img_exp{
+  max-height: 75vh;
+  width: 100%;
+}
+.img_exp_min{
+  max-height: 50vh;
+  width: 100%;
+}
+.dailog_icon{
+  display: flex;
+  justify-content: flex-end;
+}
+.dialog_title{
+  background-color: #0d2c5a;
+  color: #fff;
+}
+.clear_icon{
+  cursor: pointer;
+}
+.img_proj{
+  max-height: 50vh;
+}
+.proj_line{
+  height: 2px;
+  background: black;
+}
+.projname_line{
+  height: 1px;
+  background: #ccc;
+}
+.detail{
+  margin-top: 15px;
+}

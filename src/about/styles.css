@@ -1,0 +1,73 @@
+.avtar_container{
+    margin: auto;
+    padding-top: 20px;
+}
+.about_about{
+    font-size: 30pt;
+}
+@media (max-width: 425px) {
+    .about_about{
+        font-size:25pt !important;
+    }
+}
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.line {
+    display: block;
+    width: 70px;
+    height: 3px;
+    padding: 0!important;
+    background: #ccc;
+    margin-bottom: 40px;
+}
+.avatar_full{
+    width: 25rem !important;
+    height: 25rem !important;
+}
+.avatar_small{
+    width: 15rem !important;
+    height: 15rem !important;
+}
+.about_msg{
+    padding: 10px;
+}
+.comp_highlight{
+    color: #009ada;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  .height_container{
+    /* height: 100vh; */
+}
+.fill_height{
+    /* height: 100vh; */
+}
+.speed_icon{
+    font-size: 5rem !important;
+}
+.speed_avatar_min{
+    background-color: #0d2c5a !important;
+    width: 5rem !important;
+    height: 5rem !important;
+    margin: auto;
+    border: 1px solid lightgray;
+}
+.speed_icon_min{
+    font-size: 3rem !important;
+}
+.speed_avatar{
+    background-color: #0d2c5a !important;
+    width: 7rem !important;
+    height: 7rem !important;
+    margin: auto;
+}
+.abt_padding{
+    margin: 0 0 15px 0;
+}

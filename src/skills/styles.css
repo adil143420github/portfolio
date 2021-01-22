@@ -1,0 +1,56 @@
+.percentage{
+    background-color: #eee;
+}
+.skills_container{
+    margin: auto;
+    max-width: 50% !important;
+}
+.pgm_lang{
+   /* background-color: #04c2c9; */
+}
+.pgm_lang_score{
+    float: left;
+}
+.height_container{
+    /* height: 100vh; */
+    /* margin-top: 5vh; */
+}
+.fill_height{
+    /* height: 100vh; */
+}
+.label_abt{
+    margin: 15px 0 5px 0;
+    font-weight: 500;
+    font-size: 18pt;
+    color: #616161;
+}
+.bold_abt{
+   
+}
+.CircularProgressbar{
+    width: 10rem;
+}
+.skill_row{
+    justify-content: center;
+}
+@media all and (max-width: 425px) {
+    .CircularProgressbar{
+        width: 5rem !important;
+    }
+}
+.skill_msg{
+    padding: 40px;
+}
+.list_items{
+    display: flex;
+    justify-content: center;
+}
+.react-icon{
+    width: 1.8rem;
+}
+.github_icon{
+    color: black !important;
+}
+.databse_icon{
+    color: darkorange;
+}

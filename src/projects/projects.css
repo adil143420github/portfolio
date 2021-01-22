@@ -1,0 +1,69 @@
+.paper{
+    height: 200px !important;
+}
+.img_border{
+    /* border: 1px solid; */
+    width: 22rem;
+}
+.img_border:hover {
+    width: 23rem !important;
+    cursor: pointer;
+}
+.active_proj{
+    background-color: #e31b6d !important;
+}
+.disable_tab{
+    background-color: #fff;
+}
+.all_container{
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    height: 40px;
+}
+.java_container{
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+}
+.letter{
+    padding: 10px;
+    color: #616161;
+}
+.letter_all{
+    width: 130px;
+    padding: 10px;
+    color: #616161;
+}
+.all_active{
+    width: 130px;
+    padding: 10px;
+    background-color: #e31b6d;
+    color: #fff;
+}
+.react_active{
+    padding: 10px;
+    background-color: #e31b6d;
+    color: #fff;
+    /* height: 40px; */
+}
+.react_container{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    height: 40px;
+}
+.proj_font{
+    font-size: 13pt;
+}
+.all_active_2{
+    background-color: #e31b6d;
+    color: #fff;
+}
+.height_btn_proj{
+    height: 40px;
+}
+.img_border:hover {
+    /* border: 1px solid #e31b6d;
+    cursor: pointer; */
+}

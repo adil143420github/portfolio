@@ -1,0 +1,27 @@
+.designation{
+    font-size: 1.5rem;
+}
+.exp_text_center{
+    font-size: 16px;
+    /* padding: 20px; */
+}
+.job_attributions{
+    color: #333;
+    font-weight: 600;
+}
+.company{
+    width: 10rem !important;
+    height: 10rem !important;
+    margin: auto;
+   margin-top: 25px;
+   border: 1px solid lightgray;
+}
+.c1_container{
+    /* margin-bottom: 10vh; */
+    height: 12rem !important;
+}
+.company:hover{
+    width: 11rem !important;
+    height: 11rem !important;
+    cursor: pointer;
+}

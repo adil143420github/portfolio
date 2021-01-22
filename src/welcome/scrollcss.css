@@ -1,0 +1,79 @@
+.top-container11 {
+    background-color: #f1f1f1;
+    
+    text-align: center;
+  }
+  
+  .header11 {
+    /* padding: 10px 16px; */
+    background: #555;
+    color: #f1f1f1;
+  }
+  
+  .content11 {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 0px;
+  }
+
+  #outer {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+  }
+   
+  #inner_fixed {
+    height: 100px;
+    background-color: grey;
+  }
+  .sticky_header{
+      z-index: 1 !important;
+  }
+   
+  #inner_remaining {
+    background-color: #fff;
+    flex-grow : 1;
+  }
+  .tabs:hover{
+      opacity: 1;
+  }
+  .footer_banner{
+    height: 100%;
+    background-color:#0d2c5a;
+    align-items: center;
+  }
+  .media_icons{
+    color: #fff;
+    width: 3rem !important;
+    height: 3rem !important;
+    cursor: pointer;
+  }
+  .fb_Icon:hover{
+    background-color: #fff;
+    color: #3b5998;
+  }
+  .whatsup_icon:hover{
+    background-color: #fff;
+    color: forestgreen;
+    color: ;
+  }
+  .instagra_icon:hover{
+    position: relative;
+    color: white;
+    width: 3rem !important;
+    height: 3rem !important;
+  border-radius: 20%;
+  background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf)
+  }
+  .in_icon:hover{
+    background-color: #fff;
+    color: #0e76a8;
+  }

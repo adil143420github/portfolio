@@ -1,0 +1,39 @@
+.contact_icons{
+    width: 6rem !important;
+    height: 6rem !important;
+    cursor: pointer;
+}
+.contact_icons_min{
+    width: 3rem !important;
+    height: 3rem !important;
+    cursor: pointer;
+}
+.instaIcon{
+    position: relative;
+    color: white;
+    width: 6rem !important;
+    height: 6rem !important;
+  border-radius: 20%;
+  background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf)
+}
+.iiii{
+    width: 6rem !important;
+    height: 6rem !important;
+}
+.insta_icon{
+
+}
+.fb_icon{
+    color: #3b5998;
+}
+.linkedin_in{
+    color: #0e76a8;
+}
+.whatsapp_icon{
+    color: forestgreen;
+}
+
+.mail_icon{
+    color: #d44638;
+    cursor: pointer;
+}
